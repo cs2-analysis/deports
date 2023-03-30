@@ -2,7 +2,7 @@
   "filename": "libsteam_api.so",
   "path": "game/bin/linuxsteamrt64/libsteam_api.so",
   "size": "391333",
-  "sha256": "3728daecede3920a9da207fb32d7f1efcbbebc664e473864b3c30fd4240d6fd8",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "sha256": "dd8a28b361443b02866cc44e538648ede1e4c24a81473282a7c6aa8688f641d8",
+  "manifest": "5297389804619241087",
+  "updated": "1680196741"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "libpanoramauiclient.so",
   "path": "game/bin/linuxsteamrt64/libpanoramauiclient.so",
-  "size": "4435296",
-  "sha256": "8d2d6b46bb045dc491382b6155424ddeee62512610de3149516be63eb11bfd63",
-  "manifest": "1780215165346271285",
-  "updated": "1679698386"
+  "size": "4431200",
+  "sha256": "7df03fb5015175a91f73aafa714d0717a954142970a05607b4d57e677675d571",
+  "manifest": "5297389804619241087",
+  "updated": "1680196741"
 }
