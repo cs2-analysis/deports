@@ -1,8 +1,8 @@
 {
   "filename": "vfx_dx11.dll",
   "path": "game/bin/win64/vfx_dx11.dll",
-  "size": "1113888",
-  "sha256": "d3b8e95f878a3a4d5d1b42257106b69868156e29a61dcb7e58965d7d8cbd1180",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "1114912",
+  "sha256": "22dd9675afd4d17fdfc56a17305c10865441a26fede00cb2c8d20aa3c08a66c2",
+  "manifest": "5450149741582443877",
+  "updated": "1680196657"
 }
