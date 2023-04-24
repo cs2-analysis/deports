@@ -1,8 +1,8 @@
 {
   "filename": "libpangoft2-1.0.so",
   "path": "game/bin/linuxsteamrt64/libpangoft2-1.0.so",
-  "size": "6955707",
-  "sha256": "0b4f2017bfadffa8c1d9a7e4c78eba287e9eb447a2435f121b1dab5f56f6dc0f",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "size": "442632",
+  "sha256": "f3b2bf6eca492ac1871d304fd6c4eb2f8b19ee43d3f8ba043f684ce1858c1209",
+  "manifest": "2874551930397746476",
+  "updated": "1682379364"
 }
