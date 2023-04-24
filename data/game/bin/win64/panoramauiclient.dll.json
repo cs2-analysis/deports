@@ -1,8 +1,8 @@
 {
   "filename": "panoramauiclient.dll",
   "path": "game/bin/win64/panoramauiclient.dll",
-  "size": "2819872",
-  "sha256": "cd9f64543499699055f5fba2db5403c21d43fcc670af0a507c64f061a8c87593",
-  "manifest": "5450149741582443877",
-  "updated": "1680196657"
+  "size": "2820384",
+  "sha256": "fb7bdd3bf31764cbcfe7ea847070da0833f59b56b137a6f2ba5500075b67b0a2",
+  "manifest": "7319276772564135830",
+  "updated": "1682379347"
 }
