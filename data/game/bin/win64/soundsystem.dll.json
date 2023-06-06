@@ -1,8 +1,8 @@
 {
   "filename": "soundsystem.dll",
   "path": "game/bin/win64/soundsystem.dll",
-  "size": "2304800",
-  "sha256": "5ab94a8170017881a7f9ec1ea61c3ff5324956bda4791d4c21b37211cae61454",
-  "manifest": "5450149741582443877",
-  "updated": "1680196657"
+  "size": "2578792",
+  "sha256": "84abd3c88cc582e5324d8a74227cecdc63d52def4e2b061e593da33f582272ea",
+  "manifest": "3754018638600474871",
+  "updated": "1686084028"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "p4lib.dll",
   "path": "game/bin/win64/p4lib.dll",
-  "size": "33568",
-  "sha256": "183072d59cbaa394ecb2babed61bcf0a5cbd87cf6c31be07ad350b147faa3fde",
-  "manifest": "5450149741582443877",
-  "updated": "1680196657"
+  "size": "36712",
+  "sha256": "40c54ee873638e25329d03293f8b941006a91c8ad3b7aad8f62fe5e70781308c",
+  "manifest": "3754018638600474871",
+  "updated": "1686084028"
 }
