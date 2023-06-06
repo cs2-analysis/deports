@@ -1,8 +1,7 @@
 {
   "filename": "libfontconfig.so",
   "path": "game/bin/linuxsteamrt64/libfontconfig.so",
-  "size": "1304272",
-  "sha256": "9c2918c39af7b2a0c6ea5f033d46ad37538ca230aa073d2254b8e5dd356c1650",
-  "manifest": "2874551930397746476",
-  "updated": "1682379364"
+  "manifest": "4626506578257625887",
+  "updated": "1686084046",
+  "deleted": true
 }

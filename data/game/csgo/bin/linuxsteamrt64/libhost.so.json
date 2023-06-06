@@ -1,8 +1,8 @@
 {
   "filename": "libhost.so",
   "path": "game/csgo/bin/linuxsteamrt64/libhost.so",
-  "size": "2670128",
-  "sha256": "ab2da9a22f364519752f2d60098ef58e006cb1801f73f7218dc2d7cefdbc28db",
-  "manifest": "5297389804619241087",
-  "updated": "1680196741"
+  "size": "2678736",
+  "sha256": "e991a8f80d4a97f2ac5f37151332a34ec37aa532219f3789149855ad644fe326",
+  "manifest": "4626506578257625887",
+  "updated": "1686084046"
 }

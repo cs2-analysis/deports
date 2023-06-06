@@ -1,8 +1,8 @@
 {
   "filename": "libpanorama_text_pango.so",
   "path": "game/bin/linuxsteamrt64/libpanorama_text_pango.so",
-  "size": "2753848",
-  "sha256": "849b3811d3b626e7d82145ecb683a5896ed25a4609a91c3aa65e7d37973c826c",
-  "manifest": "2874551930397746476",
-  "updated": "1682379364"
+  "size": "2766136",
+  "sha256": "c6587f385f5cb060fcf7b0855ea88650f6c615f516b1f95c1cc99a929bdf3f58",
+  "manifest": "4626506578257625887",
+  "updated": "1686084046"
 }

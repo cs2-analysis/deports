@@ -1,8 +1,8 @@
 {
   "filename": "libclient.so",
   "path": "game/csgo/bin/linuxsteamrt64/libclient.so",
-  "size": "53061144",
-  "sha256": "b3af459cad75d592efad49f6ff81c2e3bb13fb385fc6acfd706dd4ca30cffce8",
-  "manifest": "2874551930397746476",
-  "updated": "1682379364"
+  "size": "53404152",
+  "sha256": "31045dac78926a289934d6694cb1668ecc5088f2809fa7371826900fbeb4687e",
+  "manifest": "4626506578257625887",
+  "updated": "1686084046"
 }
