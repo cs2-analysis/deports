@@ -1,8 +1,8 @@
 {
   "filename": "libvideo.so",
   "path": "game/bin/linuxsteamrt64/libvideo.so",
-  "size": "6479349",
-  "sha256": "0ea40aa29a082526765d52cc9dc3a417885d8c5cc23d9fe46367094e1a7b962c",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "size": "7032600",
+  "sha256": "f6bac7e19b5620614abe2c60069e7f85dfe2138b6ef6a6c0101c4e58418ee387",
+  "manifest": "3571174535405278309",
+  "updated": "1688082378"
 }
