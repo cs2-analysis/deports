@@ -1,8 +1,8 @@
 {
   "filename": "convarhelper_subtool.dll",
   "path": "game/bin/win64/subtools/convarhelper_subtool.dll",
-  "size": "314728",
-  "sha256": "8a721fe9a377e02a9a7357dfaf2e0a3f62c954c87ab912502ec8467232c0f1aa",
-  "manifest": "7526142366326028958",
-  "updated": "1687302797"
+  "size": "314216",
+  "sha256": "6e3d2c1484a5d1795af86f95c7a1295bf71a910c101c5bb4c722c54ae65980a8",
+  "manifest": "2519456234678493914",
+  "updated": "1688082294"
 }

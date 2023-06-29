@@ -1,8 +1,8 @@
 {
   "filename": "libswscale-5.dll",
   "path": "game/bin/win64/libswscale-5.dll",
-  "size": "1280936",
-  "sha256": "3e17a42a1feb96bb219c71cacbb11f50403dc1a7c1a7584516766e495b1795c3",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "1283432",
+  "sha256": "0ef8ffe68f41957b36a3f0390e8fb13e400b41cc7e0f63c2bb43d18ab8c5419c",
+  "manifest": "2519456234678493914",
+  "updated": "1688082294"
 }

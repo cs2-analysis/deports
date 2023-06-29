@@ -1,8 +1,8 @@
 {
   "filename": "assetpreview.dll",
   "path": "game/bin/win64/assetpreview.dll",
-  "size": "6326120",
-  "sha256": "72f1a4b186c14e093eb55caf8aabd112b69a520ac8c268113455776b140edfbd",
-  "manifest": "7526142366326028958",
-  "updated": "1687302797"
+  "size": "4704104",
+  "sha256": "30cd2474e855fda1856d28a4220cb9932235e977bcb5a361436ed51fc3e3c03d",
+  "manifest": "2519456234678493914",
+  "updated": "1688082294"
 }

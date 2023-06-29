@@ -1,8 +1,8 @@
 {
   "filename": "libavformat-58.dll",
   "path": "game/bin/win64/libavformat-58.dll",
-  "size": "1533352",
-  "sha256": "2148229205dbb1f323d7b8cd1672b1178e377c7995234657871e1e07783c45bd",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "1847656",
+  "sha256": "9a7e0abf5a09e983d7f46999b6b413a31f0b70dfb8cca1072ec6b88f790c0d0d",
+  "manifest": "2519456234678493914",
+  "updated": "1688082294"
 }
