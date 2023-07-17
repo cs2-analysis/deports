@@ -1,8 +1,8 @@
 {
   "filename": "valve_avi.dll",
   "path": "game/bin/win64/valve_avi.dll",
-  "size": "59752",
-  "sha256": "011d17f110e8dae66f77a54e7061488e5d6519773351d3d009945b3c5cdf1759",
-  "manifest": "2519456234678493914",
-  "updated": "1688082294"
+  "size": "156008",
+  "sha256": "8cfa659abcf8d1189a95d547d10372521a7c105bb0ca14bed7732bcee1ea63be",
+  "manifest": "932998659899485441",
+  "updated": "1689617883"
 }

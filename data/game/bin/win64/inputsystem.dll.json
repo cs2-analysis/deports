@@ -1,8 +1,8 @@
 {
   "filename": "inputsystem.dll",
   "path": "game/bin/win64/inputsystem.dll",
-  "size": "136040",
-  "sha256": "1f390ea3ea73d692b1b7429608ddb804854d5a40a041a603ca06bd4aafddd6f9",
-  "manifest": "2519456234678493914",
-  "updated": "1688082294"
+  "size": "233320",
+  "sha256": "f072c68f3ea54103a90efb75b8bab35a6db8856fdd93eb137d9aae1ba253ac90",
+  "manifest": "932998659899485441",
+  "updated": "1689617883"
 }
