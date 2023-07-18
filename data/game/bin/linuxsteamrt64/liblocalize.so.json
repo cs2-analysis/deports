@@ -1,8 +1,8 @@
 {
   "filename": "liblocalize.so",
   "path": "game/bin/linuxsteamrt64/liblocalize.so",
-  "size": "383592",
-  "sha256": "dcee25e142c6971ce8631630c5886ab8ac8e4895d35777f9cd415daa07ba9e85",
-  "manifest": "6889414863783748681",
-  "updated": "1689617904"
+  "size": "383616",
+  "sha256": "86342c1d9f23628db7fea36bc941902d0bd1b4fa75279cf03769e9ff2fb4cd69",
+  "manifest": "1546611782076632756",
+  "updated": "1689640239"
 }

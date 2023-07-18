@@ -1,8 +1,8 @@
 {
   "filename": "libmaterialsystem2.so",
   "path": "game/bin/linuxsteamrt64/libmaterialsystem2.so",
-  "size": "1132984",
-  "sha256": "fe39f215d7273b01f4009053fc68ebfa43aee49938215024a65c965ba0bdf480",
-  "manifest": "6889414863783748681",
-  "updated": "1689617904"
+  "size": "1133016",
+  "sha256": "8d2d3557f70a42f1c49f23732a4fa24b1a6cfd65ed352768ea921826ce82122d",
+  "manifest": "1546611782076632756",
+  "updated": "1689640239"
 }
