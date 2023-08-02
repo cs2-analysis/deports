@@ -1,8 +1,8 @@
 {
   "filename": "vscript.dll",
   "path": "game/bin/win64/vscript.dll",
-  "size": "1349480",
-  "sha256": "8ff487483382ded308bd9cd937dd2ecde55e8921836c05cc85b2d148a2fc02fa",
-  "manifest": "9211829238844378553",
-  "updated": "1689720785"
+  "size": "1345896",
+  "sha256": "df448ca7f1676849224a9db9915329e187faed3a4b7b75850e782a8e882f9c92",
+  "manifest": "1324572503769558449",
+  "updated": "1690935445"
 }
