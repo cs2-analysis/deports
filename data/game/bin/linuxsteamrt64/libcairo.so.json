@@ -1,8 +1,8 @@
 {
   "filename": "libcairo.so",
   "path": "game/bin/linuxsteamrt64/libcairo.so",
-  "size": "1018496",
-  "sha256": "2cee8fff4d605a495d0bf0d4bd6815760bf82e51e9435750bb17ed90e61baa14",
-  "manifest": "3571174535405278309",
-  "updated": "1688082378"
+  "size": "1018516",
+  "sha256": "fae989ccfef71077abb334277d8ffa145b60d163eedb93b33131616ba0796059",
+  "manifest": "4679410740106366051",
+  "updated": "1690935526"
 }
