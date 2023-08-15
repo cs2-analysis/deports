@@ -1,8 +1,8 @@
 {
   "filename": "dashboard_subtool.dll",
   "path": "game/bin/win64/subtools/dashboard_subtool.dll",
-  "size": "194408",
-  "sha256": "79c7812fa6198c8eeb5c6062e571b3d07ae5b00ab66ca8782a228eb6e0e5d580",
-  "manifest": "5405240705303850779",
-  "updated": "1691101727"
+  "size": "193896",
+  "sha256": "18c685ea9f62d854459d858a9380628bd1deddefe20296834898ff0cd5433cc4",
+  "manifest": "2791834353699801522",
+  "updated": "1692127569"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "resourcecompiler.dll",
   "path": "game/bin/win64/resourcecompiler.dll",
-  "size": "33591144",
-  "sha256": "8c11480d4733229d5881c87bbc6d5746cf4e002d80be6f4d76d2f533939a2655",
-  "manifest": "5405240705303850779",
-  "updated": "1691101727"
+  "size": "33659752",
+  "sha256": "8c8cebb0afd4076104a74ca910b98e9cb4ddc9e8f37b2bc7d43c24dc50e48947",
+  "manifest": "2791834353699801522",
+  "updated": "1692127569"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "navsystem.dll",
   "path": "game/bin/win64/navsystem.dll",
-  "size": "673640",
-  "sha256": "25d9f4e3fbd721194907b78a758c80cf0f58535d032695e473927081f6b0aabd",
-  "manifest": "5405240705303850779",
-  "updated": "1691101727"
+  "size": "674664",
+  "sha256": "8fe49d5d519cde9c200bb31ca60b2ca7503d9a515cc21515f3388062111d7861",
+  "manifest": "2791834353699801522",
+  "updated": "1692127569"
 }
