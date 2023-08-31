@@ -1,8 +1,8 @@
 {
   "filename": "libfreetype-6.dll",
   "path": "game/bin/win64/libfreetype-6.dll",
-  "size": "1058304",
-  "sha256": "bf346466aa3542c855dd7b93e725d9d0f4df4f20db67c3426e01bfe110d56d2a",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "1069928",
+  "sha256": "bdfb01f8ecf2f5af6014bd4eb4ea733a24f1de6ec6167bc504b8eb088d6b5822",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

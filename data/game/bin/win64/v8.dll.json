@@ -1,8 +1,8 @@
 {
   "filename": "v8.dll",
   "path": "game/bin/win64/v8.dll",
-  "size": "41528320",
-  "sha256": "cca6409316dab335607b0c8ff22d4afe1e22286e36251d7144c4507bdd866c93",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "41539944",
+  "sha256": "9b8efaa9a78ce15454a9912add0b4fe60354020b46cddbae0e54812468994eac",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "v8_zlib.dll",
   "path": "game/bin/win64/v8_zlib.dll",
-  "size": "829440",
-  "sha256": "b16de767dc4ba615daee9fe7a0ae000c9b4682a7abfd4979ce38429f24afbc82",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "841064",
+  "sha256": "7f5ad8447c955bfb393073d7c06401da28e3178f88756eacb69fb586fa594949",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

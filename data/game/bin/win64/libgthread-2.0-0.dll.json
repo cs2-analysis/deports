@@ -1,8 +1,8 @@
 {
   "filename": "libgthread-2.0-0.dll",
   "path": "game/bin/win64/libgthread-2.0-0.dll",
-  "size": "82944",
-  "sha256": "cb18c52490f5522af605625da6031e3fb69f245fe1b7d29d537b929e30f062e4",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "94568",
+  "sha256": "6dea26270e891756ca78422c289cf77c6780194e541598ff91c3b73c124c249c",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

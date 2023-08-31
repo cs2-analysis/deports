@@ -1,8 +1,8 @@
 {
   "filename": "ati_compress_wrapper.dll",
   "path": "game/bin/win64/ati_compress_wrapper.dll",
-  "size": "742400",
-  "sha256": "72a84537bcc5d13a2d10f95ebb825cf34bb20a84b4c5e41659b8d338d65b6637",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "754024",
+  "sha256": "59b8e6afa8bd163213b63bbc8b7af18e495ddebee801ebda39ef62fd559901c3",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

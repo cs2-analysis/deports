@@ -1,8 +1,8 @@
 {
   "filename": "Qt5Widgets.dll",
   "path": "game/bin/win64/Qt5Widgets.dll",
-  "size": "5612544",
-  "sha256": "fd5e2527133910a8e1a5dc85291288a9ed0294c84c23902040192620687a72cf",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "5624168",
+  "sha256": "e619823dad8db291f9da78eb81938da3f74a08d2318d660a8f2f9757b862dd0b",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

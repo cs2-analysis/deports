@@ -1,8 +1,8 @@
 {
   "filename": "libpango-1.0-0.dll",
   "path": "game/bin/win64/libpango-1.0-0.dll",
-  "size": "389120",
-  "sha256": "2e6218f630f8488217bcc9c0bf6070ca92a468b1ef38257509a1652e6d30c0f2",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "400744",
+  "sha256": "0c2971d0cf26cb70021d03c7a1fca8555f3c4b68a8b9e5d5e28508c7d53a7448",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

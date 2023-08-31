@@ -1,8 +1,8 @@
 {
   "filename": "v8_libplatform.dll",
   "path": "game/bin/win64/v8_libplatform.dll",
-  "size": "1403904",
-  "sha256": "3a9ceb82381ff66456f05529662e17273196d64c71b3a6aa20dff806005d8c7b",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "1415528",
+  "sha256": "c5a2ca11d057a9b716824a7c7a6952b2926798ebd8729573acce38a45659597c",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }

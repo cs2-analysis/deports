@@ -1,8 +1,8 @@
 {
   "filename": "libmpg123-0.dll",
   "path": "game/bin/win64/libmpg123-0.dll",
-  "size": "340565",
-  "sha256": "702bb84fbe7ad59042368d2c42983b9ddc68945187c2ce91b0b3ce27d82cf88e",
-  "manifest": "3805708056119697931",
-  "updated": "1679513842"
+  "size": "352192",
+  "sha256": "24e71004d29377b42a5145acdac4195da073a3a0b8e96d9a37b286fb09b2cba7",
+  "manifest": "341888040448668081",
+  "updated": "1693518636"
 }
