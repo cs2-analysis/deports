@@ -1,8 +1,8 @@
 {
   "filename": "steam_api64.dll",
   "path": "game/bin/win64/steam_api64.dll",
-  "size": "298856",
-  "sha256": "a44e5537939ae4eebc69000589aa9b2437a667813a1657cc779198bae9b815a9",
-  "manifest": "3754018638600474871",
-  "updated": "1686084028"
+  "size": "301928",
+  "sha256": "5ca60655daf389a7ad445126cd322f93f12ed71ad19d8ed1043c358ac97cac64",
+  "manifest": "7718311370876635227",
+  "updated": "1694638347"
 }
