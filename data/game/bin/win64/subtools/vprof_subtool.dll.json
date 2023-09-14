@@ -1,8 +1,8 @@
 {
   "filename": "vprof_subtool.dll",
   "path": "game/bin/win64/subtools/vprof_subtool.dll",
-  "size": "378216",
-  "sha256": "34e858094b1d62be290f933f8945b75b34b5625bfc3cc05888e783be8515d47d",
-  "manifest": "6169510333422433126",
-  "updated": "1694654335"
+  "size": "377704",
+  "sha256": "d8074a9ca195be3f41b3d5027bded593bd7c4e0187ff356ec44620b2de5e92dc",
+  "manifest": "5066464415261070738",
+  "updated": "1694722672"
 }
