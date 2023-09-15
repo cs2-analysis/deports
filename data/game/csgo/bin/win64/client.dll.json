@@ -1,8 +1,8 @@
 {
   "filename": "client.dll",
   "path": "game/csgo/bin/win64/client.dll",
-  "size": "24566120",
-  "sha256": "4a1fe85c7075cd848402823c9453690350cc7f21e0450f3a89480c1b6ae631ae",
-  "manifest": "5066464415261070738",
-  "updated": "1694722672"
+  "size": "24528232",
+  "sha256": "84b37b73c1570e008e5ea3fdc860d9512662c652c4622a9fe936a535e40b0e58",
+  "manifest": "3031085382770375306",
+  "updated": "1694817170"
 }
