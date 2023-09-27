@@ -1,8 +1,8 @@
 {
   "filename": "libpanorama.so",
   "path": "game/bin/linuxsteamrt64/libpanorama.so",
-  "size": "5007248",
-  "sha256": "aa21fa95370cf67ad614b8fd29d71abb33db77582b6d7cabe2884e08c3065a65",
-  "manifest": "7331795401901266068",
-  "updated": "1694722692"
+  "size": "4999056",
+  "sha256": "223ab502ddab80b677fd50d526e00bcfd12b115fc070e2711f79e4360b81824a",
+  "manifest": "7075113191428521452",
+  "updated": "1695840963"
 }

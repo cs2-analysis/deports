@@ -1,8 +1,8 @@
 {
   "filename": "libanimationsystem.so",
   "path": "game/bin/linuxsteamrt64/libanimationsystem.so",
-  "size": "7725344",
-  "sha256": "597510b9b222e4b54c212f2c0c9400fdac820e3de3a2e7f728357a37f74bacb6",
-  "manifest": "1522474549008240680",
-  "updated": "1694654351"
+  "size": "7650144",
+  "sha256": "f4dd56819b784436d8de94547a2ef95c1d68ef9d3d67cb2ec6aadbdb70063b71",
+  "manifest": "7075113191428521452",
+  "updated": "1695840963"
 }
