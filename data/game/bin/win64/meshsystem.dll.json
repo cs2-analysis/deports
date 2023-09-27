@@ -1,8 +1,8 @@
 {
   "filename": "meshsystem.dll",
   "path": "game/bin/win64/meshsystem.dll",
-  "size": "1139560",
-  "sha256": "b1241aeed0b5ac2fd913ce4217646c3366b8f16d250f7185afb2952d79cce25b",
-  "manifest": "5066464415261070738",
-  "updated": "1694722672"
+  "size": "1161064",
+  "sha256": "1d9934d5d47246e29554458b87896bc54a926d6b43df1e627a3ba04b02056abc",
+  "manifest": "7725996696657716079",
+  "updated": "1695840951"
 }
