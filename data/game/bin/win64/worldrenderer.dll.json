@@ -1,8 +1,8 @@
 {
   "filename": "worldrenderer.dll",
   "path": "game/bin/win64/worldrenderer.dll",
-  "size": "1187176",
-  "sha256": "a52ce98d1c6bc3aba89d386e457a1b723490d64265f00c214ea6f1bcd764fc25",
-  "manifest": "7725996696657716079",
-  "updated": "1695840951"
+  "size": "1185128",
+  "sha256": "50769dbe31ceb5c9723aa5917dd440f7a2300d1301abc4db17185fecd223c357",
+  "manifest": "6908244135149283259",
+  "updated": "1696619405"
 }

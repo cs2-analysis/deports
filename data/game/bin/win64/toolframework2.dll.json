@@ -1,8 +1,8 @@
 {
   "filename": "toolframework2.dll",
   "path": "game/bin/win64/toolframework2.dll",
-  "size": "9856360",
-  "sha256": "1aca21910d0b2c660da4bafdc774da861c2720cc0422a59b3b9d254260653068",
-  "manifest": "7725996696657716079",
-  "updated": "1695840951"
+  "size": "9852264",
+  "sha256": "c6a0823a9be5a406418252a4e43b73d584d458b063bbe816032eb490e053d583",
+  "manifest": "6908244135149283259",
+  "updated": "1696619405"
 }
