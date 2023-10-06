@@ -1,8 +1,8 @@
 {
   "filename": "libmatchmaking.so",
   "path": "game/csgo/bin/linuxsteamrt64/libmatchmaking.so",
-  "size": "3640980",
-  "sha256": "80d472d4f67d4476e4a872cb252c96f81dd1940aa2ee5795f0da672da12ab45a",
-  "manifest": "5329675596717937004",
-  "updated": "1696284133"
+  "size": "3636884",
+  "sha256": "c103189268dcb3ceb644185c3f7cd97f57af9af8129232493ce5592f18a97a26",
+  "manifest": "7897503316464055018",
+  "updated": "1696619446"
 }
