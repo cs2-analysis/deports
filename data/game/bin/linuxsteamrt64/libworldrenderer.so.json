@@ -1,8 +1,8 @@
 {
   "filename": "libworldrenderer.so",
   "path": "game/bin/linuxsteamrt64/libworldrenderer.so",
-  "size": "2325172",
-  "sha256": "b1c9f5bb8ee300065b813ba6686f07bf15cc8a31f57c9f8b31003c851896ccbc",
-  "manifest": "7897503316464055018",
-  "updated": "1696619446"
+  "size": "2333364",
+  "sha256": "e17eed275118aade0a061d22a71f17abd57b7e7290e82515a26908f83b0314a6",
+  "manifest": "7315519281152266744",
+  "updated": "1697141674"
 }
