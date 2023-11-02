@@ -1,8 +1,8 @@
 {
   "filename": "vconsole2.exe",
   "path": "game/bin/win64/vconsole2.exe",
-  "size": "3987304",
-  "sha256": "dd654f4ebf11f688041ac8afafbb27ef651aba15ffa444abbdb53cc8e2521caf",
-  "manifest": "508588015715996099",
-  "updated": "1698267716"
+  "size": "3986280",
+  "sha256": "7c58cae1d1f371eacc74de58fcd0bf152bca46703c189ac79ef0cacf76ff92a9",
+  "manifest": "4436233790544467945",
+  "updated": "1698959651"
 }
