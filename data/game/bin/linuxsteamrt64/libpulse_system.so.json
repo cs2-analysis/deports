@@ -1,8 +1,8 @@
 {
   "filename": "libpulse_system.so",
   "path": "game/bin/linuxsteamrt64/libpulse_system.so",
-  "size": "783644",
-  "sha256": "be2a9ecbdf0df95d532067c65a00ec3e18eabfbbe712e8b7e2903057ebe60cdd",
-  "manifest": "2526552620539360911",
-  "updated": "1698959657"
+  "size": "779548",
+  "sha256": "dfa39752c542599d504e96eb8630c418eba3360f7c2459e22c07ecf47d0d5665",
+  "manifest": "5737619332242063191",
+  "updated": "1700179985"
 }
