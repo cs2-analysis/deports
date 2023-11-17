@@ -1,8 +1,8 @@
 {
   "filename": "SDL3.dll",
   "path": "game/bin/win64/SDL3.dll",
-  "size": "1481576",
-  "sha256": "5eb25b588ea03b42c8ddbceed6dea6ed51163570c8e53f57992a082542fe5dab",
-  "manifest": "4436233790544467945",
-  "updated": "1698959651"
+  "size": "1491816",
+  "sha256": "043f72ac0793a3f3ff78da37c82b0eabc0f938e1e22f04f08d9b937491ea8c57",
+  "manifest": "3535310382501675085",
+  "updated": "1700179980"
 }
