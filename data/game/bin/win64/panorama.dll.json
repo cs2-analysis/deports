@@ -1,8 +1,8 @@
 {
   "filename": "panorama.dll",
   "path": "game/bin/win64/panorama.dll",
-  "size": "5088104",
-  "sha256": "dedcfb821ce33430bb95fb8380630bb80c86477d6606b9fde652ebae17eeafc2",
-  "manifest": "5154673563707876",
-  "updated": "1701384350"
+  "size": "5089640",
+  "sha256": "0713b23782e3d4b0da263a717dacda444f4359c52d6b6504746212994a9f946a",
+  "manifest": "8528236245146081066",
+  "updated": "1702340144"
 }
