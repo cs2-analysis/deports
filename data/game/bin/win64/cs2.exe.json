@@ -1,8 +1,8 @@
 {
   "filename": "cs2.exe",
   "path": "game/bin/win64/cs2.exe",
-  "size": "5170536",
-  "sha256": "b02846a24d08cc23346db9dddada139a941e35700608409d0257a8cfaf20e3f2",
-  "manifest": "7753965633440568911",
-  "updated": "1703198479"
+  "size": "2959208",
+  "sha256": "bd9f137d710b0e03cc0e1084ea27285209d3f2c888a88942e05ba5c684a39cd5",
+  "manifest": "7543151896108108121",
+  "updated": "1707257871"
 }
