@@ -2,7 +2,7 @@
   "filename": "libsteamaudio.so",
   "path": "game/bin/linuxsteamrt64/libsteamaudio.so",
   "size": "744564",
-  "sha256": "69698da7a403f7ff102dc24cc27a4816d3e66c1257202604028b7b3cc6a9aa6e",
-  "manifest": "1150763761475083315",
-  "updated": "1708044613"
+  "sha256": "d1e1f953f9dc55c78503f7b78b17c77b34362c31f641949a6b00336173bdc4cb",
+  "manifest": "1285356161700204772",
+  "updated": "1709156376"
 }
