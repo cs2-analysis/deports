@@ -1,8 +1,8 @@
 {
   "filename": "librendersystemvulkan.so",
   "path": "game/bin/linuxsteamrt64/librendersystemvulkan.so",
-  "size": "9236316",
-  "sha256": "5423992bc27eb5534a6cba73f194d8761ac0e33872a3a1029cb2c96b37f93b01",
-  "manifest": "1285356161700204772",
-  "updated": "1709156376"
+  "size": "9240412",
+  "sha256": "f56a16bc55203a6d46ceb45e25f4c143ab43e02e5714fefdbb5741eeee91e43a",
+  "manifest": "4663450930588041038",
+  "updated": "1712102518"
 }
