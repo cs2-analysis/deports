@@ -1,8 +1,8 @@
 {
   "filename": "vphysics2.dll",
   "path": "game/bin/win64/vphysics2.dll",
-  "size": "3788648",
-  "sha256": "6cf816e5db52cbabd3c3a5e3ac533e7cfd8daa0dbcf6b3f1b11cd85c71c41763",
-  "manifest": "8089611350856924546",
-  "updated": "1712102512"
+  "size": "3800272",
+  "sha256": "34101aea864224012e7709a4a8c3150d81a496cebee955612a84eeec92c4cf1f",
+  "manifest": "8435835542992145036",
+  "updated": "1714086901"
 }
