@@ -1,8 +1,8 @@
 {
   "filename": "matchmaking.dll",
   "path": "game/csgo/bin/win64/matchmaking.dll",
-  "size": "2044776",
-  "sha256": "072c9a65d64d499a0204bcbb6fa7eb9904e70054215d75b88b4d82a232aa38be",
-  "manifest": "4839911783449793547",
-  "updated": "1714091740"
+  "size": "2045288",
+  "sha256": "d456a378672ecf8e263c04f83ac3f50ca2ce17bad65b2a59861db19ee7b4a5cb",
+  "manifest": "3239537010009246047",
+  "updated": "1714169069"
 }
