@@ -1,8 +1,8 @@
 {
   "filename": "libsoundsystem.so",
   "path": "game/bin/linuxsteamrt64/libsoundsystem.so",
-  "size": "3596156",
-  "sha256": "a7cd7ca8585f6cb9d0d3c9c15894b8833789014008834c437d3767dde21d699d",
-  "manifest": "3024522898081769045",
-  "updated": "1714086907"
+  "size": "3596220",
+  "sha256": "43876ab4370a7617694013fa7b6105e3ddc724eb7528467cc0569cce03d972d0",
+  "manifest": "1819116624655527080",
+  "updated": "1714503832"
 }
