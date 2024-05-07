@@ -1,8 +1,8 @@
 {
   "filename": "animationsystem.dll",
   "path": "game/bin/win64/animationsystem.dll",
-  "size": "5815144",
-  "sha256": "4de035595bb24beaf9f85760a26aabcdceb51f51bece5f366146f47881d3f545",
-  "manifest": "1339782507403223203",
-  "updated": "1714503823"
+  "size": "5814120",
+  "sha256": "1b74e348a75103bdaf17aa16691d54a57df27196d56a7583adb0cd6320962e31",
+  "manifest": "3968470440837816580",
+  "updated": "1715122353"
 }

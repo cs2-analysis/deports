@@ -1,8 +1,8 @@
 {
   "filename": "tier0.dll",
   "path": "game/bin/win64/tier0.dll",
-  "size": "3812712",
-  "sha256": "8e521f8904d973ed617df2d93926da388a7d1063840fa324245a1103b2b56e09",
-  "manifest": "1339782507403223203",
-  "updated": "1714503823"
+  "size": "3814248",
+  "sha256": "6479e0603ed68d24d483f9739c4e2cf2a45beb8f7a5b31df918b96ca3b722124",
+  "manifest": "3968470440837816580",
+  "updated": "1715122353"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "engine2.dll",
   "path": "game/bin/win64/engine2.dll",
-  "size": "5851496",
-  "sha256": "6769f963348dfef7f469be66fd17658cd07ddd2caf800db65cc9988c39495e72",
-  "manifest": "5444870122367982996",
-  "updated": "1714608080"
+  "size": "5839720",
+  "sha256": "d3a93e1aaf9b92eaa37b00959ba360e110f367ec803a92b0c71c6e2eece693a3",
+  "manifest": "3968470440837816580",
+  "updated": "1715122353"
 }
