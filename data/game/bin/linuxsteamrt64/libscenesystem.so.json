@@ -1,8 +1,8 @@
 {
   "filename": "libscenesystem.so",
   "path": "game/bin/linuxsteamrt64/libscenesystem.so",
-  "size": "6238676",
-  "sha256": "244f487f333021a3c7aa756df21f9213b308ce7c8de5738d35b46b294d1f9471",
-  "manifest": "8113041402189563159",
-  "updated": "1715122360"
+  "size": "6369972",
+  "sha256": "bedcf8ab5de9595feb08b8321cddee899e3ad26964f92c9307fc7b238504f4c4",
+  "manifest": "2738453796772968562",
+  "updated": "1716479968"
 }

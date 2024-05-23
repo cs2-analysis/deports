@@ -1,8 +1,8 @@
 {
   "filename": "libschemasystem.so",
   "path": "game/bin/linuxsteamrt64/libschemasystem.so",
-  "size": "548036",
-  "sha256": "cdf77ca06a2e6597c0c22e706cc4db06bb79bc0082a37d94f329ac78e1d96a6c",
-  "manifest": "8113041402189563159",
-  "updated": "1715122360"
+  "size": "523428",
+  "sha256": "f4bd51cfb7dbde90406cd1be47ff552de05326e9003ae914517aee492ee4c98b",
+  "manifest": "2738453796772968562",
+  "updated": "1716479968"
 }
