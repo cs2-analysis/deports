@@ -1,8 +1,8 @@
 {
   "filename": "phonon.dll",
   "path": "game/bin/win64/phonon.dll",
-  "size": "30071144",
-  "sha256": "b4e1951d4de14dbc3bf88f939f6e96cbd140cd80732f14f110dcf3952032a81c",
-  "manifest": "7543151896108108121",
-  "updated": "1707257871"
+  "size": "20933992",
+  "sha256": "05e8725c209b729134a5ae93460a3a09dfb35bba469c396fd9e19be3899b3204",
+  "manifest": "6502356229247688760",
+  "updated": "1716479961"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "rendersystemdx11.dll",
   "path": "game/bin/win64/rendersystemdx11.dll",
-  "size": "3971432",
-  "sha256": "082c83199d97e36c9f016de9934dd6ce5361260f24a9fa04166fb7930fcd73e8",
-  "manifest": "557570705602074258",
-  "updated": "1716322477"
+  "size": "4236136",
+  "sha256": "8ad4a871b7943a2e7441d50e248922ba83df5385725b89f5350d58420163ea9e",
+  "manifest": "6502356229247688760",
+  "updated": "1716479961"
 }
