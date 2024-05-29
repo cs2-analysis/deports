@@ -1,8 +1,8 @@
 {
   "filename": "libserver.so",
   "path": "game/csgo/bin/linuxsteamrt64/libserver.so",
-  "size": "26264456",
-  "sha256": "72d31cd89d3d8cb7a4cfb87cc93c6c1a7bed63919b432b0d77746cd93d7bbc8b",
-  "manifest": "7995897002159206537",
-  "updated": "1716581959"
+  "size": "26276936",
+  "sha256": "23d764dacee52aac415023d58a29e4d5c5a6b72ddd78556ac1f4a7737be1e0cf",
+  "manifest": "1038561809050769609",
+  "updated": "1717005335"
 }
