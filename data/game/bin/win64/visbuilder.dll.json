@@ -1,8 +1,8 @@
 {
   "filename": "visbuilder.dll",
   "path": "game/bin/win64/visbuilder.dll",
-  "size": "1712488",
-  "sha256": "b4b5b90e95de62fceb8995f7bff7c1386927c7063f7870ee92a6ee0c48e69934",
-  "manifest": "5957747599656819969",
-  "updated": "1717005328"
+  "size": "1713000",
+  "sha256": "915b9de30517d516c5b1d4a2fabdc0b513293f8ef147429b08264ec4c350a7bd",
+  "manifest": "1000503759639424935",
+  "updated": "1717523295"
 }
