@@ -2,7 +2,7 @@
   "filename": "filesystem_stdio.dll",
   "path": "game/bin/win64/filesystem_stdio.dll",
   "size": "2251624",
-  "sha256": "23ec99061d6c2a5990c9f6098a1e78accc9b8c4984b72bb45f3a25f82fa7f3ad",
-  "manifest": "1000503759639424935",
-  "updated": "1717523295"
+  "sha256": "347043aba5fcddec7eb072f7dc95498e924854bfaeec6bd5f8dee4ef580e6f24",
+  "manifest": "4653049673219175533",
+  "updated": "1718148478"
 }
