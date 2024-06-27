@@ -1,8 +1,8 @@
 {
   "filename": "networksystem.dll",
   "path": "game/bin/win64/networksystem.dll",
-  "size": "2657128",
-  "sha256": "fa5f95fa1eb280ecc822648f6fcf1dc8920c763f671c6467e1afaf884581289f",
-  "manifest": "5710624048763809322",
-  "updated": "1719436932"
+  "size": "2664296",
+  "sha256": "97926256674edef2a5e78290fe0a5993912123e6cf80607c4419e35c4f9ec86f",
+  "manifest": "6690086767736432726",
+  "updated": "1719524903"
 }

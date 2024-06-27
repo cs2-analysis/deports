@@ -1,8 +1,8 @@
 {
   "filename": "steamnetworkingsockets.dll",
   "path": "game/bin/win64/steamnetworkingsockets.dll",
-  "size": "4273472",
-  "sha256": "dcf65e56d6a1ea23c6bf20710e8c437c60ba614099024f0aca41df3a97ea4d32",
-  "manifest": "8435835542992145036",
-  "updated": "1714086901"
+  "size": "4279104",
+  "sha256": "c970fb193d690502bcae0e12ba80c244c75c83a4bba982524dfd9876676b93b3",
+  "manifest": "6690086767736432726",
+  "updated": "1719524903"
 }
