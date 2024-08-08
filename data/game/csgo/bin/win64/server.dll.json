@@ -1,8 +1,8 @@
 {
   "filename": "server.dll",
   "path": "game/csgo/bin/win64/server.dll",
-  "size": "22981992",
-  "sha256": "b45ed704700ed2bb383a768704fd3638e4fd6c31000a7dd989e4ca5d13ba2b96",
-  "manifest": "7348507404859918012",
-  "updated": "1721944441"
+  "size": "22585192",
+  "sha256": "95bb53580046d5454fcb4ad754385de72af1d4f921bd9ebdfb57d5e2b0329d22",
+  "manifest": "196811588571085714",
+  "updated": "1723148145"
 }
