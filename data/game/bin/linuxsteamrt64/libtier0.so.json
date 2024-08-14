@@ -1,8 +1,8 @@
 {
   "filename": "libtier0.so",
   "path": "game/bin/linuxsteamrt64/libtier0.so",
-  "size": "4491668",
-  "sha256": "82d91507b8087961805dacb5d89296f1656dfbb375c150d81b1955489734ce41",
-  "manifest": "7497108567775061428",
-  "updated": "1719524908"
+  "size": "4491636",
+  "sha256": "076b6d717aaeeddb573cbb465653d17730dbc3c874a8bec762cd6df4062b928b",
+  "manifest": "8280001255839409527",
+  "updated": "1723660799"
 }
