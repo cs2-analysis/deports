@@ -1,8 +1,8 @@
 {
   "filename": "libsteamnetworkingsockets.so",
   "path": "game/bin/linuxsteamrt64/libsteamnetworkingsockets.so",
-  "size": "5680051",
-  "sha256": "9c59c7b6bd255c3673147d860cb3f5af9e544d40d19b106f7585cb227601d212",
-  "manifest": "8280001255839409527",
-  "updated": "1723660799"
+  "size": "5688338",
+  "sha256": "9d16e645c72d422fd329d99695852c4d0397cfa2d6dd72639cf964d6bcfab8ee",
+  "manifest": "5790143724939607385",
+  "updated": "1725922297"
 }
