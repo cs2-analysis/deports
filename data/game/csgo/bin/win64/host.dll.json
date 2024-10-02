@@ -1,8 +1,8 @@
 {
   "filename": "host.dll",
   "path": "game/csgo/bin/win64/host.dll",
-  "size": "1357672",
-  "sha256": "7fd01dd55fb4bfb989f4273f65d982d0b8f777b13dafe82d03bfaa4919a924ec",
-  "manifest": "6001104332196605890",
-  "updated": "1724100402"
+  "size": "1352040",
+  "sha256": "0af3ab83de1e3bbe4c7050d827605b7985dd0ac099817f2963c15d115381814f",
+  "manifest": "3854134337410699345",
+  "updated": "1727905858"
 }

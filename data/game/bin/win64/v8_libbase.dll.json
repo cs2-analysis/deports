@@ -1,8 +1,8 @@
 {
   "filename": "v8_libbase.dll",
   "path": "game/bin/win64/v8_libbase.dll",
-  "size": "1613160",
-  "sha256": "51a3a20b47b48bdc4d9ecbde89606c3e6793b8078a539eafad87d254ba51df19",
-  "manifest": "341888040448668081",
-  "updated": "1693518636"
+  "size": "1637736",
+  "sha256": "3dc9686891b1f563102a1865499984d18e72432b43efd9137579534273054829",
+  "manifest": "3854134337410699345",
+  "updated": "1727905858"
 }

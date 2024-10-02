@@ -1,8 +1,8 @@
 {
   "filename": "valve_wmf.dll",
   "path": "game/bin/win64/valve_wmf.dll",
-  "size": "141672",
-  "sha256": "dab10115d5d5be2582c4b11e6bfda4f3a28006ace8f9d8a61984fc62485c69ee",
-  "manifest": "4410343831335961260",
-  "updated": "1723660791"
+  "size": "140136",
+  "sha256": "2e364f8e45b1f63c5ee61add4cc27da8ecfcab29acde9d7f09b01617ce573d1e",
+  "manifest": "3854134337410699345",
+  "updated": "1727905858"
 }

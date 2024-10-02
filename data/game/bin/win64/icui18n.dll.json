@@ -1,8 +1,7 @@
 {
   "filename": "icui18n.dll",
   "path": "game/bin/win64/icui18n.dll",
-  "size": "3880808",
-  "sha256": "1d184082340aef38b8e1462172a6fab8122890ff19933d2c5de73743c17edc44",
-  "manifest": "341888040448668081",
-  "updated": "1693518636"
+  "manifest": "3854134337410699345",
+  "updated": "1727905858",
+  "deleted": true
 }

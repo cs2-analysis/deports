@@ -1,8 +1,8 @@
 {
   "filename": "rendersystemvulkan.dll",
   "path": "game/bin/win64/rendersystemvulkan.dll",
-  "size": "5854568",
-  "sha256": "a0108023b5458091a8559a5a4f2f4552fc4ac86cb0a245fedcd5f981b20bc43c",
-  "manifest": "8666424686693678869",
-  "updated": "1725397228"
+  "size": "5892968",
+  "sha256": "3576fb372a3b2d4fd1176004582731d2fc194cf78e708aaec66ab9513abda999",
+  "manifest": "3854134337410699345",
+  "updated": "1727905858"
 }

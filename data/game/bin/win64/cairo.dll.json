@@ -1,8 +1,8 @@
 {
   "filename": "cairo.dll",
   "path": "game/bin/win64/cairo.dll",
-  "size": "1322856",
-  "sha256": "ff2cda3af460ac1db6d71f8ff92ecadd4eb59c954cb4ad518b58bb7b6d4f3eba",
-  "manifest": "6502356229247688760",
-  "updated": "1716479961"
+  "size": "1277288",
+  "sha256": "0a5884ddbe0589a42385debfb0e6a76f2963e745c4c96138ae89f86a65ce2e1e",
+  "manifest": "3854134337410699345",
+  "updated": "1727905858"
 }

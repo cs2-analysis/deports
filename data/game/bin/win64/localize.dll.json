@@ -1,8 +1,8 @@
 {
   "filename": "localize.dll",
   "path": "game/bin/win64/localize.dll",
-  "size": "257384",
-  "sha256": "2dc43c7c19e71e110d9bcfcfaafc668a9eda8beec6351b7d3075d9837c0a56b1",
-  "manifest": "4410343831335961260",
-  "updated": "1723660791"
+  "size": "255848",
+  "sha256": "506ce02ac9297284cde9b95c2317e909329984d9b75caea819cef3cf11e3412e",
+  "manifest": "3854134337410699345",
+  "updated": "1727905858"
 }
