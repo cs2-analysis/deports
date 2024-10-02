@@ -1,8 +1,8 @@
 {
   "filename": "libv8_libplatform.so",
   "path": "game/bin/linuxsteamrt64/libv8_libplatform.so",
-  "size": "143696",
-  "sha256": "8c8cd9dc31257c147a7426c08e2513a3a29818a51d0d6a5e0d2682bd2670d98c",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "size": "113320",
+  "sha256": "cbb63a4921bb1ad4d1e6956815ae92e22a9a5f48420f501eaab8b6796d8677ab",
+  "manifest": "8014573627784810008",
+  "updated": "1727905866"
 }

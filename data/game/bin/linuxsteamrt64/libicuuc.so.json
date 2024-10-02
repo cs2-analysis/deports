@@ -1,8 +1,7 @@
 {
   "filename": "libicuuc.so",
   "path": "game/bin/linuxsteamrt64/libicuuc.so",
-  "size": "2235808",
-  "sha256": "baac04063603054cc740600bf7db05cb441c197fcfba72f2695a39791d054e67",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "manifest": "8014573627784810008",
+  "updated": "1727905866",
+  "deleted": true
 }

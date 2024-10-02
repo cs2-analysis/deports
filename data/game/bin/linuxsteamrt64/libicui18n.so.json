@@ -1,8 +1,7 @@
 {
   "filename": "libicui18n.so",
   "path": "game/bin/linuxsteamrt64/libicui18n.so",
-  "size": "3701760",
-  "sha256": "3b382a7b1a0bf787030f5a95edeb1136645348e729294200b089f3aa7d5767c5",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "manifest": "8014573627784810008",
+  "updated": "1727905866",
+  "deleted": true
 }

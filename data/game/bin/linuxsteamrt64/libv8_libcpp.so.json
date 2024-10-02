@@ -1,8 +1,8 @@
 {
   "filename": "libv8_libcpp.so",
   "path": "game/bin/linuxsteamrt64/libv8_libcpp.so",
-  "size": "1400632",
-  "sha256": "7b26c9e81296223f2f35b4a40f8f5b33fa1a5d0eadd27c841066c40600c151a7",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "size": "1172208",
+  "sha256": "435453d24d2dae28ccda3cc5a5b20e9805c7b806bb2723d1053c3268af0b9b0b",
+  "manifest": "8014573627784810008",
+  "updated": "1727905866"
 }

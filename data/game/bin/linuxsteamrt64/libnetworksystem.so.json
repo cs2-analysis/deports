@@ -1,8 +1,8 @@
 {
   "filename": "libnetworksystem.so",
   "path": "game/bin/linuxsteamrt64/libnetworksystem.so",
-  "size": "4051924",
-  "sha256": "4adc3479ed4480f8ced21ea1cac84f4de7b030d76b980cfe5fca1ac93dbc168e",
-  "manifest": "5790143724939607385",
-  "updated": "1725922297"
+  "size": "4047796",
+  "sha256": "c8016d474ae7189bc9fd6015a5ca0217e34208a066fc52add1db2bfffc4630e0",
+  "manifest": "8014573627784810008",
+  "updated": "1727905866"
 }

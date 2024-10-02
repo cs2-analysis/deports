@@ -1,8 +1,8 @@
 {
   "filename": "libv8_zlib.so",
   "path": "game/bin/linuxsteamrt64/libv8_zlib.so",
-  "size": "123320",
-  "sha256": "ff91849dc551390da78d0ebda814112813cad507629e3d0453f0f38dde253dc5",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "size": "110600",
+  "sha256": "042539abb051849204b62fdfb54dd241a21b0f0b91cd491ae66c481c41935251",
+  "manifest": "8014573627784810008",
+  "updated": "1727905866"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "libfilesystem_stdio.so",
   "path": "game/bin/linuxsteamrt64/libfilesystem_stdio.so",
-  "size": "2966200",
-  "sha256": "9b3ba97463e44fc3e89332b9671275046760a937b925a8201c6fe44aa4158c17",
-  "manifest": "8280001255839409527",
-  "updated": "1723660799"
+  "size": "2970296",
+  "sha256": "c7513f2407e0ff78941be525addab06f9637750bc2e4c82b5959016804dbcdd8",
+  "manifest": "8014573627784810008",
+  "updated": "1727905866"
 }

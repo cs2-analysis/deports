@@ -1,8 +1,8 @@
 {
   "filename": "libv8_libbase.so",
   "path": "game/bin/linuxsteamrt64/libv8_libbase.so",
-  "size": "270648",
-  "sha256": "2e4d1c531b4296cf983879fccfecc6ad3c8231f15cae908a6d0c621560109392",
-  "manifest": "7266560298382745570",
-  "updated": "1679513892"
+  "size": "215240",
+  "sha256": "5da50179405d6269d14f31db6f42f2349cfeb2d3d0753eacd5b0c4c43b226a69",
+  "manifest": "8014573627784810008",
+  "updated": "1727905866"
 }
