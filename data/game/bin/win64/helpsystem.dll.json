@@ -1,8 +1,8 @@
 {
   "filename": "helpsystem.dll",
   "path": "game/bin/win64/helpsystem.dll",
-  "size": "687464",
-  "sha256": "c68696444aa4adf567b691ade76576590b31207315b3e8531217043b87192105",
-  "manifest": "3854134337410699345",
-  "updated": "1727905858"
+  "size": "687456",
+  "sha256": "344827bb9b9e88ff7ddd397616d60699e438f1c33439816491474f0170352cd9",
+  "manifest": "1711082740400092470",
+  "updated": "1728430171"
 }

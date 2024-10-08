@@ -1,8 +1,8 @@
 {
   "filename": "pulse_system.dll",
   "path": "game/bin/win64/pulse_system.dll",
-  "size": "1297256",
-  "sha256": "78402a03fa473c1d9a738f987bfc2444aadced45a3999128fb039c1e6bf7bf6a",
-  "manifest": "3854134337410699345",
-  "updated": "1727905858"
+  "size": "1297248",
+  "sha256": "d9ccac1d6a030d10cc0f61541504853d6028e785554c250fc7205ad045b3887b",
+  "manifest": "1711082740400092470",
+  "updated": "1728430171"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "vconcomm.dll",
   "path": "game/bin/win64/vconcomm.dll",
-  "size": "207208",
-  "sha256": "71708f412d4f7b77dc284f9d549e04c893de064234f235a368751ac5fbdab8bf",
-  "manifest": "3854134337410699345",
-  "updated": "1727905858"
+  "size": "207200",
+  "sha256": "75a6120804c959b4fdc0d8af492eb0e39f93c2194846fd30eed8a8546a3a22f5",
+  "manifest": "1711082740400092470",
+  "updated": "1728430171"
 }

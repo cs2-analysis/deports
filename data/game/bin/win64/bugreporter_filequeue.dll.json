@@ -1,8 +1,8 @@
 {
   "filename": "bugreporter_filequeue.dll",
   "path": "game/bin/win64/bugreporter_filequeue.dll",
-  "size": "151912",
-  "sha256": "9f9c5e58b3bc9001e3b9edef630003a42b365c0dad9b6d9ee73f918c00cba57a",
-  "manifest": "3854134337410699345",
-  "updated": "1727905858"
+  "size": "151904",
+  "sha256": "0b5ea5bb917aa74dd470ed6143c733904b0e7179c147a3ea02b8baea6c5cf1f3",
+  "manifest": "1711082740400092470",
+  "updated": "1728430171"
 }

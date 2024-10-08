@@ -1,8 +1,8 @@
 {
   "filename": "soundviewer_subtool.dll",
   "path": "game/bin/win64/subtools/soundviewer_subtool.dll",
-  "size": "332648",
-  "sha256": "e0429714e2547970121e5bc6d2e1c80c71cecdc2849d865b9eecc5cf13a9f1e4",
-  "manifest": "3854134337410699345",
-  "updated": "1727905858"
+  "size": "332640",
+  "sha256": "aaf30ffe19da8599f9794fbdc9904bef3f95fed008235d63c3f037a1d5e6fb89",
+  "manifest": "1711082740400092470",
+  "updated": "1728430171"
 }
