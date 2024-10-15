@@ -1,8 +1,8 @@
 {
   "filename": "physicsbuilder.dll",
   "path": "game/bin/win64/physicsbuilder.dll",
-  "size": "12280160",
-  "sha256": "27c7b8063dcdbf070e5fc9be2b116838f18accdd410f5284d3c6aff6645c6d49",
-  "manifest": "934867248680901783",
-  "updated": "1728602799"
+  "size": "12312416",
+  "sha256": "5b3c4fd357b15c5e5c17cc94d8b7d032e0f4e3fb45b89a8d6dcbb142de9f875d",
+  "manifest": "2866666701305338395",
+  "updated": "1729030634"
 }
