@@ -1,8 +1,8 @@
 {
   "filename": "libvphysics2.so",
   "path": "game/bin/linuxsteamrt64/libvphysics2.so",
-  "size": "5204448",
-  "sha256": "6196a31aa8e0ed327b85026e4b09149aed5f73331371a00dfdba787b96d6141e",
-  "manifest": "2746388685807234278",
-  "updated": "1729030643"
+  "size": "5208544",
+  "sha256": "92879ccc95961329b0d7e2c4ace4238ce0acec6ff591f52c71931560420b83d7",
+  "manifest": "25974106602734614",
+  "updated": "1729203115"
 }
