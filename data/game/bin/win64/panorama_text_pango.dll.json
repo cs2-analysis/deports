@@ -1,8 +1,8 @@
 {
   "filename": "panorama_text_pango.dll",
   "path": "game/bin/win64/panorama_text_pango.dll",
-  "size": "2964320",
-  "sha256": "dbac72edd717bdb4cb350a003b9fa093d3cecb7d610d972dbcc84933d6c35bb1",
-  "manifest": "2866666701305338395",
-  "updated": "1729030634"
+  "size": "2964064",
+  "sha256": "5e5eb28e3ef9d42be5eacf577962cb0b51dd5437e1d645867362a76cf28a5c9c",
+  "manifest": "1463895651480076849",
+  "updated": "1729203107"
 }

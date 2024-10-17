@@ -1,8 +1,8 @@
 {
   "filename": "materialsystem2.dll",
   "path": "game/bin/win64/materialsystem2.dll",
-  "size": "1168224",
-  "sha256": "51b0c785e10cfeb2bd6c9aaba45e0b668798f8d75dbef05554a8e84948bba6e6",
-  "manifest": "2866666701305338395",
-  "updated": "1729030634"
+  "size": "1167968",
+  "sha256": "bb246f75963878dc6171db4e68e5a6916982f59ad8aabaa4cbf28918f9a89fcb",
+  "manifest": "1463895651480076849",
+  "updated": "1729203107"
 }
