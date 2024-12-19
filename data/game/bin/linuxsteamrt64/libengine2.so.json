@@ -1,8 +1,8 @@
 {
   "filename": "libengine2.so",
   "path": "game/bin/linuxsteamrt64/libengine2.so",
-  "size": "8013848",
-  "sha256": "dfeb07bce1f15ec6c7ea441d6f303a7dcdc1fcd8b7eae77b63b106b39d45df0b",
-  "manifest": "2005430250600047234",
-  "updated": "1733367318"
+  "size": "8017944",
+  "sha256": "4d6e9e6cf020f871d196a70c98821f23c7f81a346bfcdb67388b376f026e142a",
+  "manifest": "5437975718109285264",
+  "updated": "1734569775"
 }
