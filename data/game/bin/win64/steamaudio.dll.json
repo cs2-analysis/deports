@@ -1,8 +1,8 @@
 {
   "filename": "steamaudio.dll",
   "path": "game/bin/win64/steamaudio.dll",
-  "size": "2244704",
-  "sha256": "5b9b8b354fa80e932110b714e4f7b37c52417b0a8cee36abbd995fb4efa4f717",
-  "manifest": "7203931753627647217",
-  "updated": "1734569766"
+  "size": "2245728",
+  "sha256": "ddcf7f4534f57f50ecb3f16674ad07dd1164fa7f80b3dca9aee393d53f892c23",
+  "manifest": "3103657685550766037",
+  "updated": "1734648013"
 }

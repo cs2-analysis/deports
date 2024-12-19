@@ -1,8 +1,8 @@
 {
   "filename": "resourcesystem.dll",
   "path": "game/bin/win64/resourcesystem.dll",
-  "size": "447072",
-  "sha256": "19faed6d03626c54ad000a6ddae3d92b1c98ff5949b436cd5607879edbd85496",
-  "manifest": "7203931753627647217",
-  "updated": "1734569766"
+  "size": "449120",
+  "sha256": "78a8767f19c8c76233bb2f2f0d5b8a75086d19f366dd6836b6721d6c6c16afde",
+  "manifest": "3103657685550766037",
+  "updated": "1734648013"
 }

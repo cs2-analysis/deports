@@ -1,8 +1,8 @@
 {
   "filename": "propertyeditor.dll",
   "path": "game/bin/win64/propertyeditor.dll",
-  "size": "1480288",
-  "sha256": "c9862e8a2463dd50af3b79aead9ee4e79380fe1d7aecb40f2b6c6add157ec6ed",
-  "manifest": "7203931753627647217",
-  "updated": "1734569766"
+  "size": "1482336",
+  "sha256": "76bf68c8cbc22e3878628ebd5e81b21f5b7382ce075ba781f38bb16b6e890553",
+  "manifest": "3103657685550766037",
+  "updated": "1734648013"
 }

@@ -1,8 +1,8 @@
 {
   "filename": "particles.dll",
   "path": "game/bin/win64/particles.dll",
-  "size": "5981792",
-  "sha256": "af55b21cd7a1c1dac1e7c8a9c460ae56a073ad0f32c9800bd944e6a152cc9c39",
-  "manifest": "7203931753627647217",
-  "updated": "1734569766"
+  "size": "6023776",
+  "sha256": "4d5753237b33b6dedf793cdd5dbacac5c4fcfad423ac0cd8ff2299bf511c122d",
+  "manifest": "3103657685550766037",
+  "updated": "1734648013"
 }
