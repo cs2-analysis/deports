@@ -1,8 +1,8 @@
 {
   "filename": "libresourcesystem.so",
   "path": "game/bin/linuxsteamrt64/libresourcesystem.so",
-  "size": "590408",
-  "sha256": "705f660f0deb2e013dbf115e51ae669068fc1e7b6658ce920150c7205896d121",
-  "manifest": "8769783777708308090",
-  "updated": "1731538223"
+  "size": "594504",
+  "sha256": "6c5c3f2a1db5d4e84a9ef680932f0871be881e832d8ccba9592e4bdf0ead8a64",
+  "manifest": "8463351925539816008",
+  "updated": "1734648022"
 }
